@@ -1,0 +1,48 @@
+from urllib.request import urlopen
+
+# import python module request
+
+urllib contains functions for requesting data across the web, handling cookies and even changing metadata such as headers
+and your user agent. It can read HTML files, images files, or any other file stream with ease
+
+BeautifulSoup: helps format and organize the messy web by fixing bad HTML and presenting us with easily traversable
+python objects representing XML structures.
+
+html = urlopen("http://www.pythonscraping.com/pages/page1.html")
+# open url
+
+bs = BeautifulSoup(html.read(),'html.parser')
+2 arguments: 1 HTML text the object is based on, 2 is the parser
+(Html parser < lxml , html5lib )
+
+
+bs.findAll(tagName,tagAttributes)
+bs.find_all(tagName,tagAttributes)
+ex: bs.find_all('span',{'class':'red'}
+this command output a list of all of the tags on the page.
+
+print(name.get_text())
+Separating the content from the tags.
+
+find() and find_all()
+find_all(tag,attributes,recursive,text, limit, keywords)
+find(tag,attributes,recursive,text, keywords)
+    Tag: you can pass a string name of tag or even a python list of string tag names
+    Attributes: take a Python dictionary of attributes and matches tags that contain any one of those attrubutes
+        ex: find_all('span',{'class':{'green','red'})
+    recursive: is a boonlean. if it is set to true, the find_all function looks into children and children's children.
+    if it is False, it will look only at the top-level tags in your document. Default is True.
+
+
+.children vs .descendants
+
+.tr.next.siblings()
+print all rows from the table, except the first title row.
+if we want to include the title row use:
+
+bs.find('table',{'id':'giftList'}).tr
+
+Regular Expression
+
+
+

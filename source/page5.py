@@ -1,0 +1,6 @@
+from urllib.request import urlopen
+
+from bs4 import BeautifulSoup
+
+html = urlopen("https://bitcointreasuries.org/")
+print(html.read())
