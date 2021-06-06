@@ -10,3 +10,4 @@ images = bs.find_all('img',{'src':re.compile('\.\.\/img\/gifts/img.*\.jpg')})
 for image in images :
     print(image)
     print(image['src'])
+
