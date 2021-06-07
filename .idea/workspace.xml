@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0a2315d-07f8-4240-b355-60d9f02dd61c" name="Default Changelist" comment="" />
+    <list default="true" id="b0a2315d-07f8-4240-b355-60d9f02dd61c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,31 +21,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/C2-p30-RegularExpression.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/source/C3/C3-p34-TraversingSingleDomain.py" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.C2-p30-RegularExpression">
-    <configuration name="C2-p17" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="bitcoinTreasuries" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="B:\bitcoinTreasuries\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/C2-p17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\bitcoinTreasuries\source\C1" />
+      <recent name="B:\bitcoinTreasuries\source\C2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.C3-p34-TraversingSingleDomain">
     <configuration name="C2-p21-NavigatingTree" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="bitcoinTreasuries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,7 +43,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/C2-p21-NavigatingTree.py" />
+      <option name="SCRIPT_NAME" value="B:\bitcoinTreasuries\source\C2\C2-p21-NavigatingTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -77,7 +64,28 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/C2-p30-RegularExpression.py" />
+      <option name="SCRIPT_NAME" value="B:\bitcoinTreasuries\source\C2\C2-p30-RegularExpression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="C3-p34-TraversingSingleDomain" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bitcoinTreasuries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="B:\bitcoinTreasuries\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/source/C3" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/C3/C3-p34-TraversingSingleDomain.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/page10-ReliablyAndExceptions.py" />
+      <option name="SCRIPT_NAME" value="B:\bitcoinTreasuries\source\C1\page10-ReliablyAndExceptions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/page5.py" />
+      <option name="SCRIPT_NAME" value="B:\bitcoinTreasuries\source\C1\page5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/source/page8-RunningBS4.py" />
+      <option name="SCRIPT_NAME" value="B:\bitcoinTreasuries\source\C1\page8-RunningBS4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,7 +182,7 @@
       <item itemvalue="Python.C2-p30-RegularExpression" />
       <item itemvalue="Python.page10-ReliablyAndExceptions" />
       <item itemvalue="Python.page8-RunningBS4" />
-      <item itemvalue="Python.C2-p17" />
+      <item itemvalue="Python.C3-p34-TraversingSingleDomain" />
       <item itemvalue="Python.C2-p21-NavigatingTree" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.page5" />
